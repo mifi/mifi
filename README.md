@@ -2,9 +2,9 @@ I create free and open source software to share with the world because I believe
 
 [🌍 www.mifi.no](https://mifi.no/)
 
+[▶️ Subscribe to my YouTube channel](https://www.youtube.com/c/MikaelFinstad?sub_confirmation=1) for the latest news
 
 ## What's new 🔥
 
-- I just created a tutorial on how to create [DIY badges and static pages using GitHub Actions.](https://github.com/mifi/github-action-push-static) ![](https://raw.githubusercontent.com/mifi/github-action-push-static/main/custom-badge/example.svg)
+- I just created a tutorial on how to create [DIY badges and free static pages from GitHub Actions.](https://github.com/mifi/github-action-push-static) ![](https://raw.githubusercontent.com/mifi/github-action-push-static/main/custom-badge/example.svg)
 - [stacktracify](https://github.com/mifi/stacktracify) - Make minified production stacktraces readable
-- [react-lottie-player](https://github.com/mifi/react-lottie-player) - Declarative Lottie player for React that just works
