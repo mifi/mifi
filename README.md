@@ -1,6 +1,8 @@
 I create free and open source software because I believe that software should be available to everyone, without having to sell your soul to a data mining corporation.
 
-🔥 [commonify](https://github.com/mifi/commonify) - Recursively convert ESM packages to CommonJS!
+🔥 [build-electron](https://github.com/mifi/build-electron) - Use ES modules in Electron now!
+
+[commonify](https://github.com/mifi/commonify) - Recursively convert ESM packages to CommonJS!
 
 [🌍 www.mifi.no](https://mifi.no/)
 
