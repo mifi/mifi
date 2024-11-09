@@ -5,6 +5,9 @@ I create free and open source software because I believe that software should be
 - ✉️ [`mjml-dynamic`](https://github.com/mifi/mjml-dynamic) - Include dynamic MJML email content via JSON
 - ☁️ [`cognito-backup`](https://github.com/mifi/cognito-backup) / [`dynamodump`](https://github.com/mifi/dynamodump) - AWS's missing backup tools for Cognito User Pools and DynamoDB.
 
+🇳🇴 Norwegian stuff:
+- [💲 Valutakalkulator](https://mifi.no/tools/currency-calc/) med historiske valutakurser.
+
 Check out my public 📚[knowledge base](https://mifi.no/docs/).
 
 [🌍 mifi.no](https://mifi.no/)
