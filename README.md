@@ -1,4 +1,4 @@
-I create free and open source software because I believe that software should be available to everyone, without having to sell your soul to data mining corporations.
+I create free and open source software because I believe that software should be available to everyone, without having to sell our souls to data mining megacorporations.
 
 - ☎️ [twilio-caller](https://github.com/mifi/twilio-caller) - Call using twilio API from your browser
 - 🎶 [youtube-import-playlist](https://github.com/mifi/youtube-import-playlist) - Automatically import a Spotify playlist to YouTube Music
